@@ -1,6 +1,6 @@
 # Hello, I’m Ariana DeLuca
 
-I'm a senior aerospace engineering student with a passion for computational fluid dynamics and propulsion systems. I enjoy applying the theoretical knowledge I learn in class to practical applications through research and projects. 
+I'm a senior aerospace engineering student with a passion for computational fluid dynamics and propulsion systems. I enjoy applying the theoretical knowledge I learn in class to practical applications through research and projects. I am interested in exploring how computer intellingence can be used to improve our understanding of complex fluid phenomena.
 
 ## Technical Skills
 - **Languages**: Python, MATLAB, LabVIEW
